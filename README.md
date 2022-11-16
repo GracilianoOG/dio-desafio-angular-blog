@@ -1,27 +1,35 @@
-# BlogDesafio
+# 💻 Blog feito com Angular
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.9.
+## 📖 Descrição
 
-## Development server
+Blog desenvolvido com o framework **Angular**, utilizando *HTML*, *CSS* e *Typescript*. Esse projeto foi desenvolvido durante o bootcamp da **NTT Data** na plataforma da **Digital Innovation One**.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Consiste em um pequeno blog com uma página principal, que contém as capas dos artigos com título e descrição. Esses links direcionam o usuário através das rotas, para acessar a página contendo o conteúdo.
 
-## Code scaffolding
+Os dados utilizados são mockados localmente, através de um objeto, que armazena os dados básicos dos artigos do blog (capa, titulo e descrição). Cada publicação possui seu *id*, que serve para puxar os dados corretos dos artigos.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Sendo a primeira *framework* que tive contato, aprendi muitos conceitos novos, sendo um deles, os componentes, que facilitam a legibilidade e manutenção do código.
 
-## Build
+## 🔨 Ferramentas e Tecnologias
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+<div style="display: inline-block">
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/VSCODE-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCODE"/>
+  <img src="https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="Typescript"/>
+  <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
 
-## Running unit tests
+## 🖼️ Imagem do site
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+![Imagem da página principal](./pagina-principal.png "Página principal")
 
-## Running end-to-end tests
+## 📌 Mais informações
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Projeto desenvolvido durante o bootcamp da **NTT Data**, na plataforma da Digital Innovation One (DIO), durante as aulas do instrutor Felipe Aguiar.
 
-## Further help
+## 🔗 Links
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+* [🔍 Angular Docs](https://angular.io/docs)
+* [🔍 DIO](https://www.dio.me/)
